@@ -43,6 +43,9 @@
 
 <br/>
 <hr/>
+<h2 align="center">📱 Connect with me 📱</h2>
+
+[![](https://discord.c99.nl/widget/theme-4/1203605618745933880.png)](https://discord.gg/zPjH55uCYt)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
